@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Pawar</h1>
-<h3 align="center">🚀 Full Stack Developer | CSE Student | Java & JavaScript Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | IT Student | Java & JavaScript Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Spring+Boot;Learning+DSA+and+System+Design;Building+Real+World+Projects;Always+Learning+New+Technologies" />
@@ -11,12 +11,11 @@
 
 ## 🌟 About Me
 
-- 💻 Full Stack Developer passionate about building scalable web applications  
-- 🚀 Currently working on modern web development projects  
-- 📚 Learning DSA, Backend Engineering & System Design  
-- ⚡ Skilled in React, Node.js, Java, and APIs  
-- 🎯 Goal: Become an industry-ready Software Engineer  
-- 🌱 Always exploring new technologies and frameworks  
+- 💻 Passionate Full Stack Developer and IT student  
+- 🚀 Building scalable and real-world web applications  
+- 📚 Currently learning DSA, Backend Engineering & System Design  
+- ⚡ Skilled in React, Node.js, Java, and REST APIs  
+- 🎯 Focused on becoming an industry-ready Software Engineer  
 
 ---
 
@@ -49,30 +48,22 @@
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🚨 Disaster Relief Platform
+## 💳 PayCart
+> A modern payment-based web platform focused on smooth transactions, secure integrations, and scalable backend architecture.
+
+## 🧠 Curiosity Engine
+> An innovative platform designed to boost curiosity and learning through interactive and engaging experiences.
+
+## 🚨 Disaster Relief Platform
 > A crowdsourced disaster management platform connecting victims with NGOs using geolocation and SOS systems.
 
-### 🎬 Copyright Detection Platform
+## 🎬 Copyright Detection Platform
 > Smart platform for detecting copyrighted movie uploads and reducing piracy.
 
-### 👁️ Driver Drowsiness Detection System
+## 👁️ Driver Drowsiness Detection System
 > Eye blink sensor system that alerts drivers using buzzer technology.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vipulpawar7045&show_icons=true&theme=tokyonight" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulpawar7045&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulpawar7045&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
