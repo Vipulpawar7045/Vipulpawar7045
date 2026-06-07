@@ -46,26 +46,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
 
----
-
-# 📌 Featured Projects
-
-## 💳 PayCart
-> A modern payment-based web platform focused on smooth transactions, secure integrations, and scalable backend architecture.
-
-## 🧠 Curiosity Engine
-> An innovative platform designed to boost curiosity and learning through interactive and engaging experiences.
-
-## 🚨 Disaster Relief Platform
-> A crowdsourced disaster management platform connecting victims with NGOs using geolocation and SOS systems.
-
-## 🎬 Copyright Detection Platform
-> Smart platform for detecting copyrighted movie uploads and reducing piracy.
-
-## 👁️ Driver Drowsiness Detection System
-> Eye blink sensor system that alerts drivers using buzzer technology.
-
----
 
 ## 🌐 Connect With Me
 
@@ -77,14 +57,6 @@
 <a href="mailto:pawarvipul9594@gmail.com">
 <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
